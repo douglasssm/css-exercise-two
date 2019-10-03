@@ -1,0 +1,86 @@
+body {
+  background-color: white;
+  color: #000000;
+  font-size: 16px;
+  line-height: normal;
+}
+
+figcaption {
+  font-size: 14px;
+}
+
+h1 {
+  font-size: 30px;
+  font-weight: bold;
+  padding: 40px 0px 20px;
+}
+
+h3 {
+  font-size: 22px;
+  padding: 20px 0px 0px;
+}
+
+nav {
+  background-color: rgba(0,0,0,.1);
+  float: left;
+  position: fixed;
+  width: 100%;
+  font-size: 20px;
+}
+
+.logo {
+  margin: 20px;
+  width: 100px;
+}
+
+.large-pic {
+  width: 100%;
+}
+
+.medium-pic {
+  width: 70%;
+}
+
+.left, .right {
+  float: left;
+  width: 50%;
+}
+
+.right {
+  float: right;
+}
+
+.author {
+padding: 20px 0px 40px;
+}
+
+p {
+  padding-top: 20px;
+}
+
+ul {
+  list-style-type: none;
+  float: right;
+}
+
+li {
+  float: right;
+  padding: 30px;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+article {
+  padding-top: 100px;
+}
+
+.container {
+  margin: 0 auto;
+  width: 50%;
+}
